@@ -1,3 +1,3 @@
 # special-project
 20250613
-內容為17個過濾過的Dataset、競賽時官方給的LSTM+Regression程式碼以及專題報告時所使用之比較模型差異之程式碼。
+
